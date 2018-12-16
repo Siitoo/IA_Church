@@ -4,31 +4,36 @@
 
 ## About the game
 
-This game is about manage a church. The player can buy more stands to get more chance to transform citizens into votaries and can also hire new priests. Player earn money everytime a priest give a mass. With that money he can buy more stands to get more chance to get new votarys or hire more priest to give more masses per day an earn more money. At night, all agents will go to his despawn and reapear the next day.
+This game is about manage a church. The player can buy more stands to get more chance to transform citizens into devotees and can also hire new priests. Player earn money everytime a priest give a mass. With that money he can buy more stands to get more chance to get new devotees, increase the chance to get new devotees, increase devotees happines(that will increase money earned per mass) or hire more priest to give more masses per day an earn more money. At night, all agents will go to his despawn and reapear the next day. The objective is approach the maximum number of devotees and priests in the minimum amount of days possible. 
+
+Have fun! :)
 
 To know more about our game, visit our [wiki](https://bitbucket.org/Acaree/church-tycoon/wiki/Home)
 or see the [webpage](https://churchtycoon.bitbucket.io/)
 
 ### Controls
 
-- W/A/S/D or Move mouse to screen border: Move camera
-- If "Buy" button is pressed the three possible stands to buy will appear. Click on the one you want to buy and after that click on one green square (they're all in the garden of the church) to build.
+-W/A/S/D or Move mouse to screen border: Move camera
+
+- If "Buy" button is pressed the three possible stans to buy will appear. Click on the one you want to buy and after that click on one green square (they're all in the garden of the church) to build.
+
 - "Hire another priest" Button will make appear another priest.
-- "Votary Happines" it is decreasing over time and and mark how much money you will earn for each votary, you can increment this value in the options that you get when you click on the arrow. 
-- "Chance to get new votaries" shows you the transformation percentage that applies to stands. You can increment this value in the options that you get when you click on the arrow. 
-- "Decision window" will be appear at night and you can choose one of the three options that directly affects the statistics that show the options. 
-- At night a bar will appear that tells you how many priest you will send to the stands to improve their characteristics. 
-- At the end of the day, if money is above 0 you'll lose and a "restart" button will appear to reset the game. If not, another day will begin when "continue" button is pressed. 
+
+- At top left of screen is a time multiplier bar. Scroll it to change time multiplier.
+
+- If button of Happines or chance to get new devotees is clicked, some options to incresase that stats will appear.
+
+- At the end of the day, if money is above 0 you'll lose and a "restart" button will appear to reset the game. If not, another day will begin when "continue" button is pressed.
 
 ---
 
 ## Authors
 
-[Alex Campamar](https://github.com/Acaree)
+Alex Campamar
 
-[Alfonso Sanchez-Cortes](https://github.com/Siitoo)
+Alfonso Sanchez-Cortes
 
-**Link to the bitbucket repository: https://bitbucket.org/Acaree/church-tycoon/src/master/** 
+Link to the bitbucket repository: https://bitbucket.org/Acaree/church-tycoon/src/master/ 
 
 ---
 

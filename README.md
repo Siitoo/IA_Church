@@ -7,6 +7,7 @@
 This game is about manage a church. The player can buy more stands to get more chance to transform citizens into votaries and can also hire new priests. Player earn money everytime a priest give a mass. With that money he can buy more stands to get more chance to get new votarys or hire more priest to give more masses per day an earn more money. At night, all agents will go to his despawn and reapear the next day.
 
 To know more about our game, visit our [wiki](https://bitbucket.org/Acaree/church-tycoon/wiki/Home)
+or see the [webpage](https://churchtycoon.bitbucket.io/)
 
 ### Controls
 
@@ -23,9 +24,9 @@ To know more about our game, visit our [wiki](https://bitbucket.org/Acaree/churc
 
 ## Authors
 
-Alex Campamar
+[Alex Campamar](https://github.com/Acaree)
 
-Alfonso Sanchez-Cortes
+[Alfonso Sanchez-Cortes](https://github.com/Siitoo)
 
 **Link to the bitbucket repository: https://bitbucket.org/Acaree/church-tycoon/src/master/** 
 
